@@ -1,2 +1,6 @@
-# git-tutorial-basic-2
-Seg ejercio del segundo 
+Este es un tutorial de git
+
+Git es un software de control de versiones
+
+
+Este archivo es el seg que se crea en este proyecto y estoy a punto de hacer el registro de archivos
